@@ -1,1 +1,1 @@
-<h1>Hello ther</h1>
+<h1>Hello there</h1>
